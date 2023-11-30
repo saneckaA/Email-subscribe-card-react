@@ -8,7 +8,7 @@ This is my first project while learning Tailwind CSS.
 ![](https://github.com/saneckaA/Email-subscribe-card-react/blob/main/src/images/email-animation.gif?raw=true)
 
 ## Demo
-[Email subscribe card - demo](https://saneckaa.github.io/email-subscribe-card-react/)
+[Email subscribe card - demo](https://saneckaa.github.io/Email-subscribe-card-react/)
 
 ## Technologies used in this project: 
 - HTML
