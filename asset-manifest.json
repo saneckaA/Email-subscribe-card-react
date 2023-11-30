@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/email-subscribe-card-react/static/css/main.52afcbf2.css",
+    "main.js": "/email-subscribe-card-react/static/js/main.8dff961e.js",
+    "static/js/787.72d5a990.chunk.js": "/email-subscribe-card-react/static/js/787.72d5a990.chunk.js",
+    "static/media/image.jpg": "/email-subscribe-card-react/static/media/image.df4b354f3ccc6c1e1ea1.jpg",
+    "index.html": "/email-subscribe-card-react/index.html",
+    "main.52afcbf2.css.map": "/email-subscribe-card-react/static/css/main.52afcbf2.css.map",
+    "main.8dff961e.js.map": "/email-subscribe-card-react/static/js/main.8dff961e.js.map",
+    "787.72d5a990.chunk.js.map": "/email-subscribe-card-react/static/js/787.72d5a990.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52afcbf2.css",
+    "static/js/main.8dff961e.js"
+  ]
+}
