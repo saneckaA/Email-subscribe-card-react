@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my first project while learning Tailwind CSS.
+this is one of the mini projects from the tailwind css learning course.
 
 ## How it looks: 
 ![](https://github.com/saneckaA/Email-subscribe-card-react/blob/main/src/images/email-animation.gif?raw=true)
