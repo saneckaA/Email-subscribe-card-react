@@ -5,7 +5,9 @@
 this is one of the mini projects from the tailwind css learning course.
 
 ## How it looks: 
-![](https://github.com/saneckaA/Email-subscribe-card-react/blob/main/src/images/email-animation.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/saneckaA/Email-subscribe-card-react/blob/main/src/images/email-animation.gif?raw=true" />
+</p>
 
 ## Demo
 [Email subscribe card - demo](https://saneckaa.github.io/Email-subscribe-card-react/)
